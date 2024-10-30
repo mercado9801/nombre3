@@ -1,0 +1,26 @@
+2023-06-12 21:12:58,704 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.0.0 / 1778f1 ==============================
+2023-06-12 21:12:58,735 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-06-12 21:12:58,751 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-06-12 21:12:58,766 [main] JP.co.esm.caddies.jomt.jsystem.k <INFO> - jude property file not found. It is created at the time of the end of application.
+2023-06-12 21:13:08,070 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - maybe initial value of system property.
+2023-06-12 21:13:24,406 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-06-12 21:14:04,555 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\JudeMMUserIconP.xml
+2023-06-12 21:56:05,276 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\Lisbeth Duarte\Desktop\UseCase Diagram.asta
+2023-06-12 21:56:05,308 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-06-12 21:57:18,167 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\Lisbeth Duarte\Desktop\UseCase Diagram.asta
+2023-06-12 21:57:20,916 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\JudeMMUserIconP.xml
+2023-06-12 21:57:20,932 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\JudeMMUserIconP.xml
+2023-06-12 21:57:20,983 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\JudeU.properties
+2023-06-12 21:57:21,023 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\astah_command.log
+2023-06-12 22:00:52,848 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.0.0 / 1778f1 ==============================
+2023-06-12 22:00:52,880 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\Lisbeth Duarte\Desktop\UseCase Diagram.asta]
+2023-06-12 22:00:52,895 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-06-12 22:01:02,202 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - invalid value. y is oversize. displayBottomEnd:728.0 bottomEndY:845
+2023-06-12 22:01:13,974 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-06-12 22:01:16,574 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-06-12 22:01:47,837 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\Lisbeth Duarte\Desktop\UseCase Diagram.asta
+2023-06-12 22:01:48,197 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\Lisbeth Duarte\Desktop\UseCase Diagram.asta
+2023-06-12 22:02:42,683 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\JudeMMUserIconP.xml
+2023-06-12 22:02:42,730 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\JudeMMUserIconP.xml
+2023-06-12 22:02:42,901 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\JudeU.properties
+2023-06-12 22:02:42,918 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.JomtUtilities2 <INFO> - file: C:\Users\Lisbeth Duarte\.astah\uml\astah_command.log

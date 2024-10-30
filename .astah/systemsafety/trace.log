@@ -1,0 +1,8 @@
+2023-06-12 20:42:25,870 INFO  [main] net.astah.jomt.Amerigo - #### === Astah System Safety 8.0.0 / 0fc53a ==============================
+2023-06-12 20:42:25,901 INFO  [main] net.astah.jomt.Amerigo - start program args []
+2023-06-12 20:42:25,933 INFO  [main] net.astah.jomt.Amerigo - start vm args [-Xms16m, -Xmx512m, -Dsun.java2d.d3d=false, -Djava.util.Arrays.useLegacyMergeSort=true]
+2023-06-12 20:42:30,387 INFO  [main] _.ze - jude property file not found. It is created at the time of the end of application.
+2023-06-12 20:42:32,794 INFO  [LicenseActivator] _.eV - astah_System_Safety: No license for product (-1)
+2023-06-12 20:42:37,718 INFO  [AWT-EventQueue-0] net.astah.jomt.jutil.k$a - stack=5m
+2023-06-12 20:42:45,674 INFO  [AWT-EventQueue-0] net.astah.jomt.jview.swing.p - maybe initial value of system property.
+2023-06-12 20:46:17,051 INFO  [AWT-EventQueue-0] _.ze - file: C:\Users\Lisbeth Duarte\.astah\systemsafety\SystemConfiguration.properties
